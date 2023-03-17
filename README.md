@@ -3,3 +3,5 @@ Proyecto intermedio con análisis EDA de la clase de Desarrollo de Proyectos de 
 
 
 El Jupyter Notebook se encuentra en este [enlace](/src/EDA-DatosBursatilesMundiales.ipynb).
+
+![]('results/stocks.png')
