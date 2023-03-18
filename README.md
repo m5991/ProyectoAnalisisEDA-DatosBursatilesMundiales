@@ -7,3 +7,5 @@ El Jupyter Notebook se encuentra en este [enlace](/src/EDA-DatosBursatilesMundia
 Una de las gráficas que se generaron es la siguiente:
 
 ![](results/stocks.png)
+
+La sección de Referencias de este repositorio las encontrarás en [este link](doc/referencias.md).
